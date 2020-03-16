@@ -1,0 +1,49 @@
+<script type="text/javascript">
+    RED.nodes.registerType('name-formatter',{
+        category: 'function',
+        color: '#E9967A',
+        defaults: {
+            firstName: {value:""},
+            lastName: {value:""},
+            format: {value:"full"},
+            title: {value:""}
+        },
+        inputs:1,
+        outputs:1,
+        icon: "hash.png",
+        label: function() {
+            return this.name||"name-formatter";
+        }
+    });
+</script>
+
+<script type="text/x-red" data-template-name="name-formatter">
+    <div class="form-row">
+        <label for="node-input-firstName"><i class="fa vcard"></i> First Name </label>
+        <input type="text" id="node-input-firstName" placeholder="First Name">
+    </div>
+    <div class="form-row">
+        <label for="node-input-lastName"><i class="fa vcard-o"></i> Last Name</label>
+        <input type="text" id="node-input-lastName" placeholder="Last Name">
+    </div>
+    <div class="form-row">
+        <label for="node-input-format"><i class="fa pencil"></i> Format</label>
+        <select type="text" id="node-input-format" style="width:70%;">
+            <option value="full">Full</option>
+            <option value="formal">Formal</option>
+            <option value="informal">Informal</option>
+        </select>
+    </div>
+    <div class="form-row">
+        <label for="node-input-title"><i class="fa pencil"></i> Title</label>
+        <select type="text" id="node-input-title" style="width:70%;">
+            <option value="Mr">Mr</option>
+            <option value="Ms">Ms</option>
+            <option value="Mrs">Mrs</option>
+        </select>
+    </div>
+</script>
+
+<script type="text/x-red" data-help-name="name-formatter">
+    <p>A simple node that outputs the formatted version of your name.</p>
+</script>

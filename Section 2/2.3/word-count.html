@@ -1,0 +1,26 @@
+<script type="text/javascript">
+  RED.nodes.registerType('word-count',{
+      category: 'function',
+      color: '#a6bbcf',
+      defaults: {
+          name: {value:""}
+      },
+      inputs:1,
+      outputs:1,
+      icon: "file.png",
+      label: function() {
+          return this.name||"word-count";
+      }
+  });
+</script>
+
+<script type="text/x-red" data-template-name="word-count">
+  <div class="form-row">
+      <label for="node-input-name"><i class="icon-tag"></i> Name</label>
+      <input type="text" id="node-input-name" placeholder="Name">
+  </div>
+</script>
+
+<script type="text/x-red" data-help-name="word-count">
+  <p>A simple node that outputs the word count of a pargraph given at msg.payload</p>
+</script>
