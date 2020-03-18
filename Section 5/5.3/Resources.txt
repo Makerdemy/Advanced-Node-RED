@@ -1,0 +1,5 @@
+Requirements - https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395236
+Recognition model - https://docs.microsoft.com/en-in/azure/cognitive-services/face/face-api-how-to-topics/specify-recognition-model
+Detection model - https://docs.microsoft.com/en-in/azure/cognitive-services/face/face-api-how-to-topics/specify-detection-model
+Other functions - https://docs.microsoft.com/en-in/azure/cognitive-services/face/face-api-how-to-topics/how-to-use-large-scale
+Face Identify API requirements - https://westus.dev.cognitive.microsoft.com/docs/services/563879b61984550e40cbbe8d/operations/563879b61984550f30395239

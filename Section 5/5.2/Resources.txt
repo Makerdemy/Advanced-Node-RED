@@ -1,0 +1,5 @@
+Create a new Azure account - https://docs.microsoft.com/en-us/learn/modules/create-an-azure-account/
+Azure free tier options - https://azure.microsoft.com/en-us/offers/ms-azr-0044p/
+Azure resource groups - https://docs.microsoft.com/en-us/azure/azure-resource-manager/management/overview#resource-groups
+Azure Face API pricing - https://azure.microsoft.com/en-in/pricing/details/cognitive-services/face-api/
+Face detection and Face recognition - https://docs.microsoft.com/en-in/azure/cognitive-services/face/
