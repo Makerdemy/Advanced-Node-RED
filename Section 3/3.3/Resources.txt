@@ -1,0 +1,4 @@
+Creating organizations and spaces - https://cloud.ibm.com/docs/cloud-foundry?topic=cloud-foundry-create_orgs
+IBM Watson studio - https://dataplatform.cloud.ibm.com/docs/content/wsj/getting-started/overview-ws.html?audience=wdp&context=wdp&linkInPage=true
+Best practices for creating custom classifiers - https://developer.ibm.com/technologies/artificial-intelligence/articles/cc-build-with-watson-tips-best-practices-custom-classifiers-visual-recognition/
+How to sharpen Watson’s visual recognition results with simple preprocessing? - https://www.ibm.com/cloud/blog/sharpen-watson-visual-recognition-results
