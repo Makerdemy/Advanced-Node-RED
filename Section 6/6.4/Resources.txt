@@ -1,0 +1,1 @@
+Ngrok-termux issue - https://github.com/inconshreveable/ngrok/issues/441#issuecomment-399756708  

@@ -1,0 +1,5 @@
+Creating a google cloud account - https://cloud.google.com/billing/docs/how-to/manage-billing-account
+Creating and managing projects - https://cloud.google.com/resource-manager/docs/creating-managing-projects
+Google Cloud vision API - https://cloud.google.com/vision/docs
+Detection of handwriting in images - https://cloud.google.com/vision/docs/handwriting
+Document text detection - https://cloud.google.com/vision/docs/handwriting
