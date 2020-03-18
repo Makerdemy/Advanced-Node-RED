@@ -1,0 +1,3 @@
+Develop a basic Alexa skill - https://developer.amazon.com/en-US/docs/alexa/custom-skills/steps-to-build-a-custom-skill.html
+Create custom slots - https://developer.amazon.com/en-US/docs/alexa/custom-skills/create-and-edit-custom-slot-types.html
+Alexa developer console interface - https://developer.amazon.com/en-US/docs/alexa/devconsole/about-the-developer-console.html

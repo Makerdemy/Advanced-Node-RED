@@ -1,0 +1,42 @@
+{
+    "interactionModel": {
+        "languageModel": {
+            "invocationName": "office automation",
+            "intents": [
+                {
+                    "name": "AMAZON.CancelIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.HelpIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.StopIntent",
+                    "samples": []
+                },
+                {
+                    "name": "AMAZON.NavigateHomeIntent",
+                    "samples": []
+                },
+                {
+                    "name": "lightOnIntent",
+                    "slots": [],
+                    "samples": [
+                        "switch on the lights in the makerdemy room",
+                        "turn on the lights in the makerdemy room"
+                    ]
+                },
+                {
+                    "name": "lightOffIntent",
+                    "slots": [],
+                    "samples": [
+                        "switch off the lights in the makerdemy room",
+                        "turn off the lights in the makerdemy room"
+                    ]
+                }
+            ],
+            "types": []
+        }
+    }
+}

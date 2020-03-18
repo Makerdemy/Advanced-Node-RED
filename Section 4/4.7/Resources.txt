@@ -1,0 +1,6 @@
+ngrok - https://ngrok.com/docs
+Amazon Lex pricing - https://aws.amazon.com/lex/pricing/
+Amazon Lex ‘Create a bot’ Interface - https://docs.aws.amazon.com/lex/latest/dg/gs2-create-bot-create.html
+Slots - https://developer.amazon.com/en-US/docs/alexa/custom-skills/create-and-edit-custom-slot-types.html
+Node-red-contrib-viseo-aws documentation - https://github.com/NGRP/node-red-viseo-bot/wiki
+Viseo bot maker key - https://key.bot.viseo.io/
