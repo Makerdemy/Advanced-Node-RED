@@ -1,0 +1,1 @@
+HTML file - https://nodered.org/docs/creating-nodes/node-html

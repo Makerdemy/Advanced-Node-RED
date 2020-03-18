@@ -1,0 +1,1 @@
+Packaging into node module - https://nodered.org/docs/creating-nodes/packaging

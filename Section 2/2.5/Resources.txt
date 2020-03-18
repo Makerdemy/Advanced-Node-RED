@@ -1,0 +1,4 @@
+Node definition - https://nodered.org/docs/creating-nodes/node-html#node-definition 
+Icons - https://fontawesome.com/v4.7.0/icons/ 
+Different HTML customizations - https://www.w3schools.com/html/html_form_input_types.asp
+Node.js HTTP - https://www.w3schools.com/nodejs/nodejs_http.asp
