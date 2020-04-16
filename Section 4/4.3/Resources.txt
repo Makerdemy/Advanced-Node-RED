@@ -1,4 +1,3 @@
-AWS Lambda -> Node-RED - https://docs.google.com/document/d/1YfqrqCdwDkoX7tzJ0rf_71mjgrq-sNWroUSQzNmWu04/edit?usp=sharing 
 Creating AWS account - https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/
 AWS Lambda console interface - https://docs.aws.amazon.com/lambda/latest/dg/gettingstarted-features.html
 ARN - https://docs.aws.amazon.com/general/latest/gr/aws-arns-and-namespaces.html
